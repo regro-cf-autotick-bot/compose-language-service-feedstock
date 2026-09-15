@@ -28,7 +28,7 @@ tests:
 about:
   license: MIT
   license_file:
-    - LICENSE
+    - LICENSE.md
     - third-party-licenses.txt
   summary: Language service for Docker Compose documents
   homepage: https://github.com/microsoft/compose-language-service
